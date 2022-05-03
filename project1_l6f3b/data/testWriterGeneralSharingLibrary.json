@@ -1,0 +1,23 @@
+{
+    "books": [
+        {
+            "author": "Author1",
+            "name": "Test1",
+            "location": "111",
+            "status": "borrowed"
+        },
+        {
+            "author": "Author2",
+            "name": "Test2",
+            "location": "222",
+            "status": "available"
+        },
+        {
+            "author": "Author3",
+            "name": "Test3",
+            "location": "333",
+            "status": "available"
+        }
+    ],
+    "name": "My Sharing Library"
+}
